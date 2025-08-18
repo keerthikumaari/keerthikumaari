@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Keerthi Kumaari
 
-<!--
-**keerthikumaari/keerthikumaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Electronics & Communication Engineering (ECE) Student  
+💡 Passionate about VLSI, Embedded Systems, and Hardware-Oriented Projects  
+🔭 Exploring MATLAB, Verilog, C++, and Qt for simulations & system design    
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- **Languages:** C, C++, Verilog, MATLAB, Python, HTML, CSS, JavaScript
+- **Hardware/Domain:** VLSI, Embedded Systems, Antenna Arrays, Digital Design  
+- **Tools:** MATLAB, ModelSim, Xilinx Vivado, Qt Creator, Git  
+- **Other Interests:** Technical Documentation & Open-Source Contributions  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 [Aircraft Tracker (C++ / Qt)](https://github.com/yourusername/AircraftTracker-Qt)
+- Simulates aircraft movement between coordinates  
+- Displays latitude, longitude, speed, altitude, and (x, y) position  
+
+### 🔹 [Antenna Array Factor Simulation (MATLAB)](https://github.com/yourusername/AntennaArrayFactor)
+- Plots array factor of uniform amplitude arrays  
+- Calculates directivity, null beam width, and radiation patterns  
+
+---
+
+## 📫 How to Reach Me
+- LinkedIn: www.linkedin.com/in/keerthi-kumaari-a10688311 
+- Email: keerthikumaari@gmail.com
