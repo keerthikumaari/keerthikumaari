@@ -10,7 +10,8 @@
 - **Languages:** C, C++, Verilog, MATLAB, Python, HTML, CSS, JavaScript
 - **Hardware/Domain:** VLSI, Embedded Systems, Antenna Arrays, Digital Design  
 - **Tools:** MATLAB, ModelSim, Xilinx Vivado, Qt Creator, Git  
-- **Other Interests:** Technical Documentation & Open-Source Contributions  
+- **Other Interests:** Technical Documentation & Open-Source Contributions
+- **Soft Skills:** Team Collaboration, Communication, Leadership
 
 ---
 
